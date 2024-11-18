@@ -41,7 +41,9 @@ dependencies:
   http: ^1.2.2
   photo_view: any
 
+
 dev_dependencies:
+  mocktail:
   flutter_test:
     sdk: flutter
 
